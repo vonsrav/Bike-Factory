@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyBikesCompany.UI/1.0.0": {
+        "dependencies": {
+          "MyBikesCompany.Business": "1.0.0",
+          "MyBikesCompany.Data": "1.0.0"
+        },
+        "runtime": {
+          "MyBikesCompany.UI.dll": {}
+        }
+      },
+      "MyBikesCompany.Business/1.0.0": {
+        "runtime": {
+          "MyBikesCompany.Business.dll": {}
+        }
+      },
+      "MyBikesCompany.Data/1.0.0": {
+        "dependencies": {
+          "MyBikesCompany.Business": "1.0.0"
+        },
+        "runtime": {
+          "MyBikesCompany.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBikesCompany.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBikesCompany.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBikesCompany.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

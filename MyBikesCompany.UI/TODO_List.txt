@@ -1,0 +1,38 @@
+﻿Case Study: My Bikes Factory
+My Bikes Company is a major Canadian manufacturer of bikes and bike
+equipment, based in Montreal.
+A bike is uniquely identified by a serial number. A bike also has the 
+following information: model, color, and manufacturing year.
+My Bikes Company produces two types of bikes: Mountain Bikes and 
+Road Bikes. A mountain bike has its specific features, for example, the 
+suspension, which can be one of these three types: front, rear, or dual.
+Information regarding tires is not used for mountain bikes. A road bike
+can have one of these three types of tires: regular, commuter, or gravel.
+Information regarding suspension is not used for road bikes.
+You have been assigned the job to design and implement a solution called 
+MyBikesFactory using Visual Studio 2022 and C#.
+TO DO:
+• Build the Business Layer: (25%)
+o Create the business classes. For each class, create the
+required private fields, public properties, and constructors.
+o Create the necessary enumerations (enums).
+• Build the Data Layer (20%)
+o Create the file handler class to load and save data to a file 
+called bikes.xml.
+• Build the User Interface Layer: (40%)
+o Build a friendly User Interface containing the following forms:
+▪ LoginForm: ask the username and password. Store the 
+credentials (username and password) in a file called login.txt.
+▪ MainForm: 
+• Present an option to exit the application upon user 
+confirmation.
+• Present controls so that the user can add or update 
+bikes. Specific fields should only be available to specific 
+bike types, for example: suspension type to mountain 
+bikes only, and tire type to road bike only.
+• List Bikes: implement controls to display:
+o All existing bikes (Mountain and Road Bikes). 
+o Mountain Bikes only.
+o Road Bikes only.
+• Implement a control to search a bike by serial number. 
+• Implement a control to remove an existing bike.

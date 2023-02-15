@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyBikesFactoy.Data/1.0.0": {
+        "dependencies": {
+          "MyBikesFactoy.Business": "1.0.0"
+        },
+        "runtime": {
+          "MyBikesFactoy.Data.dll": {}
+        }
+      },
+      "MyBikesFactoy.Business/1.0.0": {
+        "runtime": {
+          "MyBikesFactoy.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBikesFactoy.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBikesFactoy.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

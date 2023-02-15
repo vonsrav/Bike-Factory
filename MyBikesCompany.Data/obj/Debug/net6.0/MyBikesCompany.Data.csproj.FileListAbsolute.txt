@@ -1,0 +1,15 @@
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\bin\Debug\net6.0\MyBikesCompany.Data.deps.json
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\bin\Debug\net6.0\MyBikesCompany.Data.dll
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\bin\Debug\net6.0\ref\MyBikesCompany.Data.dll
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\bin\Debug\net6.0\MyBikesCompany.Data.pdb
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\bin\Debug\net6.0\MyBikesCompany.Business.dll
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\bin\Debug\net6.0\MyBikesCompany.Business.pdb
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.csproj.AssemblyReference.cache
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.AssemblyInfoInputs.cache
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.AssemblyInfo.cs
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.csproj.CoreCompileInputs.cache
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.csproj.CopyComplete
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.dll
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\ref\MyBikesCompany.Data.dll
+C:\Users\Neetu\source\repos\MyBikesCompany\MyBikesCompany.Data\obj\Debug\net6.0\MyBikesCompany.Data.pdb
